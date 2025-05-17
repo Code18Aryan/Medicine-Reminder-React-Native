@@ -22,6 +22,10 @@ This is a React Native application built using Expo and TypeScript that helps us
 
 Make sure you have **Node.js**, **npm**, and **Expo CLI** installed.
 
+
+## . Install dependencies and start the app
+npm install && npx expo start
+
 ### 1. Clone the repository
 
 ```bash
